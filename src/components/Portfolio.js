@@ -1,7 +1,7 @@
 import React from 'react';
 import '../index.css';
 
-import  {  withRouter} from 'react-router-dom'
+
 
 
 class Portfolio extends React.Component {
@@ -31,4 +31,4 @@ class Portfolio extends React.Component {
     }
 }
 
-export default withRouter(Portfolio);
+export default Portfolio;

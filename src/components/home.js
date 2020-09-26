@@ -4,7 +4,7 @@ import '../index.css';
 import Presentation from './presentation';
 import Apropos from './Apropos';
 
-import  {  withRouter} from 'react-router-dom'
+
 
 
 class Home extends React.Component {
@@ -26,4 +26,4 @@ class Home extends React.Component {
     }
 }
 
-export default withRouter(Home);
+export default Home;
