@@ -69,10 +69,10 @@ class competences extends React.Component {
                         
                         { img:<img className = "imgSlide" srcset="images/reactjs.jpg" />, id: 2},
                        
-                        { img:<img className = "imgSlide" srcset="/images/wordpress.jpg" />, id: 3},
+                        { img:<img className = "imgSlide" srcset="/images/expressjs.png" />, id: 3},
                         { img:<img className = "imgSlide" srcset="/images/mongo-db-logo.png"/>, id: 4},
                         { img:<img className = "imgSlide" srcset="/images/node.jpg"/>, id: 5},
-                        { img:<img className = "imgSlide" srcset="/images/expressjs.png"/>, id: 6}
+                        { img:<img className = "imgSlide" srcset="/images/wordpress.jpg"/>, id: 6}
     
                     ]
        
