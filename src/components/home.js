@@ -16,7 +16,7 @@ class Home extends React.Component {
      	<Apropos />  
      	
         <div className="download">
-     		<a href="/images/_CV Nadir Djebbar.pdf" target="_blank"  
+     		<a href="/images/_CV_ Nadir Djebbar.pdf" target="_blank"  
             className="buttonCv" rel="noopener noreferrer">Télécharger CV</a>
      	
      	</div>   
