@@ -423,6 +423,7 @@ footer {
 						padding-left: 3%;
 						height: 56px;
 						width: 56px;
+						margin-bottom: 3px;
 						}
 
 						ul {
@@ -558,6 +559,7 @@ footer {
 								border: solid white 2px;
 								cursor: pointer;
 								transition: transform .2s;
+								max-height: 119px;
 							}
 
 						.projetGaidjinInforme {
@@ -566,6 +568,7 @@ footer {
 								border: solid white 2px;
 								cursor: pointer;
 								transition: transform .2s;
+								max-height: 119px;
 							}
 
 
@@ -596,6 +599,7 @@ footer {
 						padding-left: 3%;
 						height: 56px;
 						width: 56px;
+						margin-bottom: 3px;
 						}
 
 						ul {
@@ -726,6 +730,7 @@ footer {
 								border: solid white 2px;
 								cursor: pointer;
 								transition: transform .2s;
+								max-height: 119px;
 							}
 
 						.projetGaidjinInforme {
@@ -734,6 +739,7 @@ footer {
 								border: solid white 2px;
 								cursor: pointer;
 								transition: transform .2s;
+								max-height: 119px;
 							}
 
 
