@@ -15,7 +15,7 @@ class Presentation extends React.Component {
 				<p className="titleQuiSuisJe">QUI SUIS-JE ?</p>	
 				<p className="me">
 				   Ancien Conseiller Clientèle, je suis quelqu'un qui aime sans cesse apprendre.
-				   N'ayant pas peur de l'inconnu, je laisse ma curiosité m'orientée dans l'apprentissage de nouveaux univers.
+				   N'ayant pas peur de l'inconnu, je laisse ma curiosité m'orienter dans l'apprentissage de nouveaux univers.
 				   De nature joviale, j'aime rire et partager des moments avec le reste de l'équipe.
 				   Ma citation préférée: «Plus vous saurez regarder loin dans le passé, plus vous verrez loin dans le futur »
 
