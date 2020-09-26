@@ -423,7 +423,7 @@ footer {
 						padding-left: 3%;
 						height: 56px;
 						width: 56px;
-						padding-bottom: 6px;
+						/*padding-bottom: 6px;*/
 						}
 
 						ul {
@@ -441,6 +441,7 @@ footer {
 						a {
 							display: flex;
 							justify-content: center;
+							margin-bottom: 3px;
 						}
 
 
@@ -599,7 +600,7 @@ footer {
 						padding-left: 3%;
 						height: 56px;
 						width: 56px;
-						padding-bottom: 6px;
+						/*padding-bottom: 6px;*/
 						}
 
 						ul {
@@ -617,6 +618,7 @@ footer {
 						a {
 							display: flex;
 							justify-content: center;
+							margin-bottom: 3px;
 						}
 
 
