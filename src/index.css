@@ -640,7 +640,7 @@ footer {
 						height: auto;
 						border: solid;
 						min-height: 105px;
-						min-height: 106px;
+						max-height: 106px;
 						}
 
 						.previous {
