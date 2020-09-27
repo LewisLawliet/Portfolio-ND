@@ -14,7 +14,7 @@ class Portfolio extends React.Component {
      		
      		<div>
      			<p className="portfolioLink">Portfolio projet</p>	
-		     	 <a href="https://github.com/LewisLawliet/PortfolioFinal" target="_blank"  rel="noopener noreferrer">	
+		     	 <a href="https://github.com/LewisLawliet/Portfolio-ND" target="_blank"  rel="noopener noreferrer">	
 		     	<img className="projetPortfolio" src="/images/testPortfolio.png" />
 		     	</a>
 		    </div> 	
