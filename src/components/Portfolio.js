@@ -14,7 +14,7 @@ class Portfolio extends React.Component {
      		
      		<div>
      			<p className="portfolioLink">Portfolio projet</p>	
-		     	 <a href="https://github.com/LewisLawliet/Portfolio-ND" target="_blank"  rel="noopener noreferrer">	
+		     	 <a href="https://nadir-portfolio.netlify.app/" target="_blank"  rel="noopener noreferrer">	
 		     	<img className="projetPortfolio" src="/images/testPortfolio.png" />
 		     	</a>
 		    </div> 	
@@ -22,7 +22,7 @@ class Portfolio extends React.Component {
 
 		    <div> 	
 		     	 <p className="gjiLink">GJI projet</p>
-		         <a href="https://github.com/LewisLawliet/FrontFilrouge" target="_blank"  rel="noopener noreferrer">
+		         <a href="https://gaidjin-informe.netlify.app/" target="_blank"  rel="noopener noreferrer">
 		         <img className="projetGaidjinInforme" src="/images/testPortfolio2.png" />
 		         </a>
 		    </div>     
